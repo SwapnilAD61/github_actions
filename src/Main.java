@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("Swapnil Deoraye");
-        int arr[] = {10, 20, 30, 40, 50};
+        int arr[] = {10, 20, 30, 40,100, 50};
 
         int n=arr.length;
         int start = 0, end = n-1;

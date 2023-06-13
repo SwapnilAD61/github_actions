@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Swapnil Deoraye");
+        System.out.println("Swapnil Deoraye,from Fineshift");
         int arr[] = {10, 20, 30, 40,100, 50};
 
         int n=arr.length;
